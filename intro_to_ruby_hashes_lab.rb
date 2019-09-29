@@ -6,7 +6,7 @@ def my_hash
 end
 
 def pioneer
-  {"pioneer" => "Traveler"} return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  {"pioneer"=>"travler", "enjoyment"=>"Grace Hopper"}
 end
 
 def id_generator
