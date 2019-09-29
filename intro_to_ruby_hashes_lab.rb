@@ -14,11 +14,11 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  {"bread"=> "8"}
+  {"bread"} => {"8"}
 end
 
 def read_from_hash(hash, key)
-  # return the correct value using the hash and key parameters
+  {"hash"} => {"10"}
 end
 
 def update_counting_hash(hash, key)
