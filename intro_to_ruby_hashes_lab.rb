@@ -1,9 +1,8 @@
-def new_hash
-  # return an empty hash
+def {"shopping_list" => "bread","two" => "corn", "three"}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+ {"Favorite_band" => "Tech N9ne"} 
 end
 
 def pioneer
