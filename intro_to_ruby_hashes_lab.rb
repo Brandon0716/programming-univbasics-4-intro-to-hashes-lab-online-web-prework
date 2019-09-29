@@ -1,6 +1,4 @@
-def it "creates and returns a valid hash that contains key/value pairs of your choice" do
-        expect(my_hash).to be_a(Hash)
-        expect(my_hash.keys.count).to_not eq(0)
+def {"shopping_list" => "bread","two" => "corn", "three"}
 end
 
 def my_hash
